@@ -65,3 +65,6 @@
 - [Sentry JS Tracing Docs](https://docs.sentry.io/platforms/javascript/tracing/instrumentation/#span-starting-options)
 - [Lit documentation](https://lit.dev/)
 - [Lit feature request that makes this easier](https://github.com/lit/lit/issues/3538)
+<img width="1198" alt="Screenshot 2025-06-03 at 11 48 07" src="https://github.com/user-attachments/assets/30e69b1b-2062-431d-b458-040c2e51c359" />
+
+
