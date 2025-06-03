@@ -1,0 +1,19 @@
+{
+  "name": "lit-components-custom-instrumentation",
+  "version": "1.0.0",
+  "description": "Demo of custom instrumentation for Lit.js components with Sentry",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@sentry/browser": "^9.24.0",
+    "@sentry/tracing": "^7.120.3",
+    "lit": "^3.1.2"
+  },
+  "devDependencies": {
+    "vite": "^5.1.4"
+  }
+}
